@@ -2,6 +2,10 @@ name: quest_gamification
 description: "RPG-style gamification engine for Flutter apps. XP, levels, badges, streaks, and streak shields out of the box."
 version: 0.1.0
 
+repository: https://github.com/pb10005/quest_gamification
+homepage: https://github.com/pb10005/quest_gamification
+issue_tracker: https://github.com/pb10005/quest_gamification/issues
+
 topics:
   - gamification
   - health
