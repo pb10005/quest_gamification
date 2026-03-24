@@ -1,0 +1,24 @@
+name: quest_gamification
+description: "RPG-style gamification engine for Flutter apps. XP, levels, badges, streaks, and streak shields out of the box."
+version: 0.1.0
+
+topics:
+  - gamification
+  - health
+  - fitness
+  - game
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.24.0
+  lints: ^3.0.0
