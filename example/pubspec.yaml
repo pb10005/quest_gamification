@@ -1,0 +1,23 @@
+name: quest_gamification_catalog
+description: "Widgetbook component catalog for quest_gamification SDK"
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  quest_gamification:
+    path: ../
+  widgetbook: ^3.22.0
+
+flutter:
+  uses-material-design: true
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^3.0.0
